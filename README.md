@@ -1,3 +1,1 @@
-<p align="center">
-<h1>Coming Soon!</h1>
-</p>
+<h1 align="center">Coming Soon!</h1>
