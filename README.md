@@ -1,2 +1,3 @@
-# Silent-But-Deadly.github.io
-Coming Soon!
+<p align="center">
+<h1>Coming Soon!</h1>
+</p>
